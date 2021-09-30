@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/vishalbrdr/ip-address-tracker)
-- Live Site URL: [Github Pages](https://vishalbrdr.github.io/ip-address-tracker)
+- Live Site URL: [Github Pages](https://vishalbrdr.github.io/ip-address-tracker/)
 
 ## My process
 
